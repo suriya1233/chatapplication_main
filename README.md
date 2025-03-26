@@ -1,36 +1,15 @@
-# Real-Time Chat Application
+# CHAT APPLICATION
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD
 
-## Description  
-This is a real-time chat application built using **React.js**, **Node.js**, **Socket.io**, and **MongoDB**. It enables users to engage in seamless, instant messaging with features like user authentication, private and group chats, message persistence, and real-time notifications.
+NAME: SIVA SURIYAN P
 
-## Features  
-- **Real-time messaging** with WebSockets (Socket.io)  
-- **User authentication** (Signup/Login with JWT)  
-- **One-on-one and group chat support**  
-- **Message history and persistence** using MongoDB  
-- **Online/offline status indicators**  
-- **Typing indicators and read receipts**  
-- **Media sharing (images, files, etc.)**  
-- **Responsive UI for mobile and desktop**  
+INTERN ID: CT04WUJ
 
-## Tech Stack  
-- **Frontend:** React.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB, Socket.io  
-- **Authentication:** JWT (JSON Web Token)  
-- **Real-time Communication:** WebSockets (Socket.io)  
+DOMAIN: FULLSTACK WEB DEVELOPMENT
 
-## Installation  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+BATCH DURATION: February 25th 2025 to March 25th 2025.
 
-npm install
-cd client && npm install
+MENTOR NAME: Neela Santhosh Kumar
 
-npm run server
-
-cd client && npm start
-
-
-Let me know if you need modifications! 🚀
+DESCRIPTION :
+A Chat Application is a full-stack web development project that enables real-time messaging between users. It includes features such as secure authentication, one-on-one and group chats, media sharing, message history storage, and real-time status indicators. The frontend is built using React.js or Next.js with Tailwind CSS or Material UI, while the backend runs on Node.js with Express.js or Django/Flask for Python-based development. Socket.io (WebSockets) or Firebase is used to enable real-time communication, ensuring instant message delivery. Messages are stored in MongoDB, PostgreSQL, or Firebase Firestore, allowing users to retrieve chat history. The app also supports push notifications, typing indicators, and online/offline status tracking. Media files such as images and videos can be stored using Cloudinary or Firebase Storage. For deployment, the frontend can be hosted on Vercel or Netlify, while the backend can be deployed on Heroku, Railway, or Fly.io, with MongoDB Atlas or Firebase Firestore handling the database. This project provides hands-on experience with real-time communication, WebSocket integration, backend API development, and full-stack deployment, making it an excellent choice for developers looking to build scalable and interactive web applications.
